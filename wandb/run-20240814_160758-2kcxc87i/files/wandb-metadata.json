@@ -1,0 +1,121 @@
+{
+    "os": "Linux-6.10.4-zen2-1-zen-x86_64-with-glibc2.40",
+    "python": "3.11.8",
+    "heartbeatAt": "2024-08-14T14:07:58.948412",
+    "startedAt": "2024-08-14T14:07:58.189449",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "host": "zenbook",
+    "username": "tk",
+    "executable": "/home/tk/miniconda3/envs/computer-vision/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 4179.6804375,
+        "min": 800.0,
+        "max": 5000.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 4335.703,
+            "min": 800.0,
+            "max": 5000.0
+        },
+        {
+            "current": 4029.442,
+            "min": 800.0,
+            "max": 5000.0
+        },
+        {
+            "current": 4623.978,
+            "min": 800.0,
+            "max": 5000.0
+        },
+        {
+            "current": 3971.394,
+            "min": 800.0,
+            "max": 5000.0
+        },
+        {
+            "current": 3888.65,
+            "min": 800.0,
+            "max": 5000.0
+        },
+        {
+            "current": 4082.147,
+            "min": 800.0,
+            "max": 5000.0
+        },
+        {
+            "current": 4460.627,
+            "min": 800.0,
+            "max": 5000.0
+        },
+        {
+            "current": 4395.06,
+            "min": 800.0,
+            "max": 5000.0
+        },
+        {
+            "current": 4381.534,
+            "min": 800.0,
+            "max": 5000.0
+        },
+        {
+            "current": 4326.406,
+            "min": 800.0,
+            "max": 5000.0
+        },
+        {
+            "current": 4460.033,
+            "min": 800.0,
+            "max": 5000.0
+        },
+        {
+            "current": 3858.644,
+            "min": 800.0,
+            "max": 5000.0
+        },
+        {
+            "current": 4459.349,
+            "min": 800.0,
+            "max": 5000.0
+        },
+        {
+            "current": 3963.524,
+            "min": 800.0,
+            "max": 5000.0
+        },
+        {
+            "current": 4439.861,
+            "min": 800.0,
+            "max": 5000.0
+        },
+        {
+            "current": 4259.531,
+            "min": 800.0,
+            "max": 5000.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 696.4426727294922,
+            "used": 292.84497833251953
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 2060",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 2060",
+            "memory_total": 6442450944
+        }
+    ],
+    "memory": {
+        "total": 31.152286529541016
+    }
+}
